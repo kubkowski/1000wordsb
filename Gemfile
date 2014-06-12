@@ -57,3 +57,6 @@ end
 
 # Use Foundation framework
 gem 'foundation-rails'
+
+#Use Devise Authentication
+gem 'devise'
